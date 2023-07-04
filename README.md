@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graduated in 2022 with a Bachelors of Computer Science and Chemical Engineering. 
 Currently working as a dev!
 
-* 🌍  I'm based in Canada
+* 🌍  I'm based in Taipei
 * 🖥️  See my portfolio at [https://williamho-15.github.io/](http://williamho-15.github.io/)
 * ✉️  You can contact me at [williamho915@gmail.com](mailto:williamho915@gmail.com)
 
